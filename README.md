@@ -21,3 +21,4 @@ This project is an online chat application that demonstrates a basic client-serv
 1. **Clone the Repository:**
    ```bash
    git clone <repository_url>
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/anandamurti/OnlineChatApp)
